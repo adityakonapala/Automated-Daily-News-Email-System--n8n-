@@ -1,0 +1,12 @@
+# Environment files
+.env
+.env.*
+
+# Local credential files
+*.local.json
+**/*.secret*
+**/*.pem
+**/*.key
+
+# Common credential/cache files
+**/*credentials*
